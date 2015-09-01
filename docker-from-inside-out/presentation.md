@@ -19,6 +19,10 @@
 
 ---
 
+![inline](container-executor.png)
+
+---
+
 # [fit] Namespaces
 -
 ## CLONE_NEWUSER
