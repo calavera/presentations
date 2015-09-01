@@ -24,8 +24,7 @@
 ---
 -
 -
-![fit 
-original](docker-logo.png)
+![fit original](docker-logo.png)
 # The best way to get those initial twenty users is to give people an application they want, which happens to be written in the new language. [^1]
 -
 -
