@@ -8,4 +8,4 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 
 See my slides:
 
-[slides.pdf](slides.pdf]
+[slides.pdf](slides.pdf)
